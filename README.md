@@ -1,6 +1,8 @@
 # Machine Learning
 > _"Field of study that gives computers the ability to learn without being explicitly programmed"_ \- Arther Samuel
 
+<p align="center"><img src="machine_learning.png" align="center" height="362.4" width="510.6"/></p>
+
 Code is wittern in python using scikit-learn library. The Artificial Neural Networks and Convolutional 
 Neural Networks code is written using the keras library which is based on tensorflow.
 
